@@ -1,0 +1,9 @@
+title: "Introduction to Categories"
+description: "Introduction to Categories course at ENS Paris-Saclay"
+remote_theme: daattali/beautiful-jekyll
+
+# MathJax
+mathjax: true
+
+plugins:
+  - jekyll-remote-theme
