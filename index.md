@@ -10,7 +10,7 @@ Below you can find some useful information for the course.
 
 ## Schedule
 
-The course starts on *Monday September 7* and runs until *Wednesday October 21*.
+The course starts on *Monday September 7* and runs until *Wednesday October 21*, with an exam on *Wednesday November 4*.
 
 - Lectures (V. Zamdzhiev): Monday, 14:00-16:00, 1O07
 - Exercises (S. van Gool): Wednesday, 10:45-12:45, 1O07
