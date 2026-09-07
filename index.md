@@ -20,6 +20,12 @@ The course starts on *Monday September 7* and runs until *Wednesday October 21*,
 
 [Exercises](./ct-exercises.pdf), to be discussed on Wednesdays, are available here.
 
+## Further Reading
+
+If you wish to learn more about category theory, we recommend the following text:
+
+- [Introduction to Categories and Categorical Logic. Samson Abramsky and Nikos Tzevelekos.](https://arxiv.org/abs/1102.1313)
+
 ## Teachers
 
 - [Sam van Gool](https://www.samvangool.net/)
