@@ -18,7 +18,7 @@ The course starts on *Monday September 7* and runs until *Wednesday October 21*,
 
 ## Exercises
 
-- The first [exercises](./ct-exercises.pdf) are available.
+[Exercises](./ct-exercises.pdf), to be discussed on Wednesdays, are available here.
 
 ## Teachers
 
