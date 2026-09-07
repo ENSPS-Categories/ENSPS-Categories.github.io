@@ -16,6 +16,9 @@ The course starts on *Monday September 7* and runs until *Wednesday October 21*,
 - Exercises (S. van Gool): Wednesday, 10:45-12:45, 1O07
 - Exam: Wednesday November 4, 09:00-12:00, 1O07
 
+## Exercises
+
+- The first [exercises](./ct-exercises.pdf) are available.
 
 ## Teachers
 
