@@ -16,6 +16,15 @@ The course starts on *Monday September 7* and runs until *Wednesday October 21*,
 - Exercises (S. van Gool): Wednesday, 10:45-12:45, 1O07
 - Exam: Wednesday November 4, 09:00-12:00, 1O07
 
+## Exercises
+
+[Exercises](./ct-exercises.pdf), to be discussed on Wednesdays, are available here.
+
+## Further Reading
+
+If you wish to learn more about category theory, we recommend the following text:
+
+- [Introduction to Categories and Categorical Logic. Samson Abramsky and Nikos Tzevelekos.](https://arxiv.org/abs/1102.1313)
 
 ## Teachers
 
