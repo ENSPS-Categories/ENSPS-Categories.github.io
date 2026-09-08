@@ -22,9 +22,10 @@ The course starts on *Monday September 7* and runs until *Wednesday October 21*,
 
 ## Further Reading
 
-If you wish to learn more about category theory, we recommend the following text:
+If you wish to learn more about category theory, we recommend the following texts:
 
-- [Introduction to Categories and Categorical Logic. Samson Abramsky and Nikos Tzevelekos.](https://arxiv.org/abs/1102.1313)
+- [Samson Abramsky and Nikos Tzevelekos. *Introduction to Categories and Categorical Logic.* (2011)](https://arxiv.org/abs/1102.1313)
+- [Emily Riehl. *Category Theory in Context.* (2016)](https://emilyriehl.github.io/files/context.pdf)
 
 ## Teachers
 
