@@ -20,9 +20,9 @@ The course starts on *Monday September 7* and runs until *Wednesday October 21*,
 
 We have covered aspects from the following topics in the course so far:
 
-1. 07 September: definition of category, monomorphism, epimorphism, isomorphism, locally small categories;
+1. *Monday 07 September:* definition of category, monomorphism, epimorphism, isomorphism, locally small categories;
   opposite category, functors; basic propositions related to these notions; examples in Set, Vect, Pos, Cat, and other categories.
-2. 14 September: commutative diagrams, terminal object, binary products, finite products, basic properties and propositions related to (finite) products, products are unique up to coherent isomorphism, binary products as a functor; examples in Set and Vect.
+2. *Monday 14 September:* commutative diagrams, terminal object, binary products, finite products, basic properties and propositions related to (finite) products, products are unique up to coherent isomorphism, binary products as a functor; examples in Set and Vect.
 
 ## Exercises
 
