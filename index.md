@@ -29,7 +29,7 @@ Homework is assigned at the end of each exercise class, to be be handed in the f
 If you wish to learn more about category theory, we recommend the following texts:
 
 - [Samson Abramsky and Nikos Tzevelekos. *Introduction to Categories and Categorical Logic.* (2011)](https://arxiv.org/abs/1102.1313)
-- [Jiři Adámek, Horst Herrlich and George E. Strecker. *Abstract and Concrete Categories: The Joy of Cats* (2004)](http://katmat.math.uni-bremen.de/acc/acc.pdf)
+- [Jiři Adámek, Horst Herrlich and George E. Strecker. *Abstract and Concrete Categories: The Joy of Cats.* (2004)](http://katmat.math.uni-bremen.de/acc/acc.pdf)
 - [Emily Riehl. *Category Theory in Context.* (2016)](https://emilyriehl.github.io/files/context.pdf)
 
 ## Evaluation
