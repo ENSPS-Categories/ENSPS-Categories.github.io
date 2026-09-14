@@ -20,12 +20,22 @@ The course starts on *Monday September 7* and runs until *Wednesday October 21*,
 
 [Exercises](./ct-exercises.pdf), to be discussed on Wednesdays, are available here.
 
+Homework is assigned at the end of each exercise class, to be be handed in the following **Wednesday by 10:45**, either via e-mail <svangool@ens-paris-saclay.fr>, or in person.
+
+1. Wednesday 9 September: exercises 1-5 (except 5e). **Homework.** Exercise 7.
+
 ## Further Reading
 
 If you wish to learn more about category theory, we recommend the following texts:
 
 - [Samson Abramsky and Nikos Tzevelekos. *Introduction to Categories and Categorical Logic.* (2011)](https://arxiv.org/abs/1102.1313)
+- [Jiři Adámek, Horst Herrlich and George E. Strecker. *Abstract and Concrete Categories: The Joy of Cats* (2004)](http://katmat.math.uni-bremen.de/acc/acc.pdf)
 - [Emily Riehl. *Category Theory in Context.* (2016)](https://emilyriehl.github.io/files/context.pdf)
+
+## Evaluation
+
+- Homework: 30%
+- Final exam: 70%
 
 ## Teachers
 
