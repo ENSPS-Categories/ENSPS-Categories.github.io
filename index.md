@@ -32,7 +32,7 @@ Homework is assigned at the end of each exercise class, to be be handed in the f
 
 1. 9 September: exercises 1-5 (except 5e). **Homework for 16 Sep.** Exercise 7.
 
-2. 16 September: exercise 8, 10, 11, 13, 14, 15a. **Homework for 23 Sep.** Exercise 12.
+2. 16 September: exercises 6, 8, 10, 11, 13, 14, 15a. **Homework for 23 Sep.** Exercise 12.
 
 ## Further Reading
 
