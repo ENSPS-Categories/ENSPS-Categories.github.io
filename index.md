@@ -30,7 +30,9 @@ We have covered aspects from the following topics in the course so far:
 
 Homework is assigned at the end of each exercise class, to be be handed in the following **Wednesday by 10:45**, either via e-mail <svangool@ens-paris-saclay.fr>, or in person.
 
-1. Wednesday 9 September: exercises 1-5 (except 5e). **Homework.** Exercise 7.
+1. 9 September: exercises 1-5 (except 5e). **Homework for 16 Sep.** Exercise 7.
+
+2. 16 September: exercise 8, 10, 11, 13, 14, 15a. **Homework for 23 Sep.** Exercise 12.
 
 ## Further Reading
 
