@@ -36,6 +36,8 @@ Homework is assigned at the end of each exercise class, to be be handed in the f
 
 3. 23 September: exercise 15, 18, 19, 20ab. (21 and 22 are treated in 28 September's lecture.) **Homework for 30 Sep:** exercise 24.
 
+4. 30 September: exercise 27, 28, 29. **Homework for 7 Oct:** exercise 30a.
+
 ## Further Reading
 
 If you wish to learn more about category theory, we recommend the following texts:
