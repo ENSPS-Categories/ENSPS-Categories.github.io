@@ -48,6 +48,7 @@ If you wish to learn more about category theory, we recommend the following text
 
 About Yoneda's Lemma (as mentioned in TD):
 
+- [Lieven Lebruyn. *le lemme de la Gare du Nord.* (2016)](http://www.neverendingbooks.org/le-lemme-de-la-gare-du-nord/)
 - [Terence Tao. *Yoneda's lemma as an identification of form and function: the case study of polynomials.* (2023)](https://terrytao.wordpress.com/2023/08/25/yonedas-lemma-as-an-identification-of-form-and-function-the-case-study-of-polynomials/)
 
 ## Evaluation
