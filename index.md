@@ -25,6 +25,7 @@ We have covered aspects from the following topics in the course so far:
 2. *Monday 14 September:* commutative diagrams, terminal object, binary products, finite products, basic properties and propositions related to (finite) products, products are unique up to coherent isomorphism, binary products as a functor; examples in Set and Vect.
 3. *Monday 21 September:* Limits and colimits, terminal object as a limit of the empty diagram, binary/small products as a limit, (co)limits are unique up to coherent isomorphism, (co)equalisers, example: equalisers in Set, preservation of (co)limits by a functor.
 4. *Monday 28 September:* Solved exercises 21 and 22, a category C with binary products has a functor (- x -) : C x C --> C, natural transformations, example: identity natural transformation, example: natural transformations Id ==> P and P^2 ==> P, where P : Set --> Set is the powerset functor, example: in a category C with binary coproducts one can define a natrual transformation with components beta_A : A + A --> A, natural transformations compose, def: functor category.
+5. *Monday 5 October:*  universal arrows (for adjunctions), adjunctions (definition via natural bijections), universal arrows determine adjunctions, mentioned that adjunctions also determine (co)universal arrows but without much details, example: adjunction between Set and Vect, example: adjunction between Set and Pos.
 
 ## Exercises
 
