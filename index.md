@@ -32,7 +32,7 @@ We have covered aspects from the following topics in the course so far:
 
 [Exercises](./ct-exercises.pdf), to be discussed on Wednesdays, are available here.
 
-Homework is assigned at the end of each exercise class, to be be handed in the following **Wednesday by 10:45**, either via e-mail <svangool@ens-paris-saclay.fr>, or in person.
+Homework is assigned at the end of each exercise class, to be be handed in the following **Wednesday by 10:45**, either via e-mail <svangool@ens-paris-saclay.fr>, or in person. If you send it via e-mail, please send it as a single PDF of size < 2Mb, with filename LastnameN.pdf, in which you replace the string "Lastname" with your last name, and "N" with the number of the homework. 
 
 1. 9 September: exercises 1-5 (except 5e). **Homework for 16 Sep:** exercise 7.
 
@@ -40,7 +40,7 @@ Homework is assigned at the end of each exercise class, to be be handed in the f
 
 3. 23 September: exercise 15, 18, 19, 20ab. (21 and 22 are treated in 28 September's lecture.) **Homework for 30 Sep:** exercise 24.
 
-4. 30 September: exercise 27, 28, 29. **Homework for 14 Oct:** exercise 30a (please send by e-mail in a single PDF of at most 2 MB).
+4. 30 September: exercise 27, 28, 29. **Homework for 14 Oct:** exercise 30a. 
 
 5. 14 October: exercise 9, 32, 33, 34, 35, 38. **Homework for 21 Oct:** exercise 39. This TD was online; here are the [notes](./td5.pdf).
 
