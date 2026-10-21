@@ -36,13 +36,15 @@ Homework is assigned at the end of each exercise class, to be be handed in the f
 
 1. 9 September: exercises 1-5 (except 5e). **Homework for 16 Sep:** exercise 7.
 
-2. 16 September: exercises 6, 8, 10, 11, 13, 14, 15a. **Homework for 23 Sep:** exercise 12.
+2. 16 September: exercise 6, 8, 10, 11, 13, 14, 15a. **Homework for 23 Sep:** exercise 12.
 
-3. 23 September: exercise 15, 18, 19, 20ab. (21 and 22 are treated in 28 September's lecture.) **Homework for 30 Sep:** exercise 24.
+3. 23 September: exercise 15, 18, 19, 20ab. **Homework for 30 Sep:** exercise 24.
 
-4. 30 September: exercise 27, 28, 29. **Homework for 14 Oct:** exercise 30a. 
+4. 30 September: (exercises 21 and 22 were treated in 28 September's lecture); exercise 27, 28, 29. **Homework for 14 Oct:** exercise 30a. 
 
-5. 14 October: exercise 9, 32, 33, 34, 35, 38. **Homework for 21 Oct:** exercise 39. This TD was online; here are the [notes](./td5.pdf).
+5. 14 October: exercise 9, 32, 33, 34, 35, 38. **Homework for 21 Oct:** exercise 39. [Notes](./td5.pdf).
+
+6. 21 October: exercises 40-46. [Notes](./td6.pdf).
 
 ## Further Reading
 
@@ -52,10 +54,14 @@ If you wish to learn more about category theory, we recommend the following text
 - [Jiři Adámek, Horst Herrlich and George E. Strecker. *Abstract and Concrete Categories: The Joy of Cats.* (2004)](http://katmat.math.uni-bremen.de/acc/acc.pdf)
 - [Emily Riehl. *Category Theory in Context.* (2016)](https://emilyriehl.github.io/files/context.pdf)
 
-About Yoneda's Lemma (as mentioned in TD):
+About Yoneda's Lemma: 
 
 - [Lieven Lebruyn. *le lemme de la Gare du Nord.* (2016)](http://www.neverendingbooks.org/le-lemme-de-la-gare-du-nord/)
 - [Terence Tao. *Yoneda's lemma as an identification of form and function: the case study of polynomials.* (2023)](https://terrytao.wordpress.com/2023/08/25/yonedas-lemma-as-an-identification-of-form-and-function-the-case-study-of-polynomials/)
+
+About cartesian closed categories and lambda-calculus:
+
+- Parts 0 and I of [J. Lambek and P. J. Scott. *Introduction to higher-order categorical logic.* (1986)](https://archive.org/details/introductiontohi0000lamb)
 
 ## Evaluation
 
